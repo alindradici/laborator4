@@ -28,6 +28,9 @@ public class Main {
 //        prob2 obj2 = new prob2();
 //        obj2.multiplu();
 
+        prob9 obj9 = new prob9();
+        obj9.ordine();
+
 
 
 
