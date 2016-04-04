@@ -13,8 +13,8 @@ public class Main {
 //        prob5 obj5 = new prob5();
 //        obj5.power();
 
-//        prob6 obj6 = new prob6();
-//        System.out.println(obj6.fact(5));
+          prob6 obj6 = new prob6();
+          obj6.fact();
 
 //        prob7 obj7 = new prob7();
 //        obj7.maiMare();
@@ -22,8 +22,8 @@ public class Main {
 //        prob10 obj10 = new prob10();
 //        obj10.dublate();
 
-          prob11 obj11 = new prob11();
-          obj11.add();
+//        prob11 obj11 = new prob11();
+//        obj11.add();
 
 
 

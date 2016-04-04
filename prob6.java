@@ -1,12 +1,19 @@
 
 public class prob6 {
 
-    public static int fact(int x){
-        if(x==1){
-            return 1;
+    public void fact(){
+
+
+      int a = 5;
+      int b = 1;
+      int rez =1;
+        while(b<=a){
+            rez = rez * b;
+            b++;
         }
-        else
-            return x * fact(x-1);
-    }
+        System.out.println(rez);
+
+        }
+
 
 }
