@@ -11,7 +11,7 @@ public class prob6 {
             rez = rez * b;
             b++;
         }
-        System.out.println(rez);
+        System.out.println("rezultat"+ rez );
 
         }
 
