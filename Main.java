@@ -13,8 +13,8 @@ public class Main {
 //        prob5 obj5 = new prob5();
 //        obj5.power();
 
-          prob6 obj6 = new prob6();
-          obj6.fact();
+//        prob6 obj6 = new prob6();
+//        obj6.fact();
 
 //        prob7 obj7 = new prob7();
 //        obj7.maiMare();
@@ -25,6 +25,8 @@ public class Main {
 //        prob11 obj11 = new prob11();
 //        obj11.add();
 
+//        prob2 obj2 = new prob2();
+//        obj2.multiplu();
 
 
 
