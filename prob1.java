@@ -3,7 +3,8 @@ import java.util.*;
 public class prob1 {
 
 
-    public void sir() {
+    public void maina () {
+
         Scanner input = new Scanner(System.in);
 
         System.out.println("enter number");
