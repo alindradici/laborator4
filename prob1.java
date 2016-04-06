@@ -3,7 +3,7 @@ import java.util.*;
 public class prob1 {
 
 
-    public void maina () {
+    public static void main(String [] args){
 
         Scanner input = new Scanner(System.in);
 

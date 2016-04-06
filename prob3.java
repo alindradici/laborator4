@@ -4,7 +4,7 @@
 import java.util.*;
 public class prob3 {
 
-    public void sum() {
+    public static void main(String [] args){
 
         Scanner input = new Scanner(System.in);
         int sum =0;

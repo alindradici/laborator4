@@ -1,7 +1,7 @@
 import java.util.*;
 public class prob5 {
 
-    public void power (){
+    public static void main(String [] args){
         System.out.println(Math.pow(3,2));
         System.out.println(Math.pow(3,5));
 

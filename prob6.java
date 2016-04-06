@@ -1,7 +1,7 @@
 
 public class prob6 {
 
-    public void fact(){
+    public static void main(String [] args){
 
 
       int a = 4;

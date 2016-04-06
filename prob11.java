@@ -2,10 +2,7 @@ import java.util.*;
 
 public class prob11 {
 
-    public void add(){
-
-
-
+    public static void main(String [] args){
 
         int [] a = {12,1,12,3,5,23,5,12,5,6,7,8,9,12,4};
         int [] b = new int[a.length];

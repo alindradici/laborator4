@@ -1,7 +1,7 @@
 import java.util.*;
 public class prob4 {
 
-    public void check(){
+    public static void main(String [] args){
         Scanner input = new Scanner(System.in);
         System.out.println("enter number: ");
         int num = input.nextInt();
